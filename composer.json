@@ -1,0 +1,19 @@
+{
+    "name": "iserter/web-socket-bridge",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilyas Serter",
+            "email": "ilyasserter@gmail.com"
+        }
+    ],
+    "require": {
+      "devristo/phpws": "dev-master",
+      "textalk/websocket": "1.0.*"
+    },
+    "autoload": {
+      "psr-4": {
+        "WebSocketBridge\\": "src/"
+      }
+    }
+}

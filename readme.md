@@ -1,0 +1,1 @@
+We're using a web service that provides unbelievably poor reports. So I created this intermediary application to log requests and build our own reports. 
