@@ -1,5 +1,6 @@
 {
     "name": "iserter/web-socket-bridge",
+    "description" : "An intermediate web socket to log messages when using a third party web socket.",
     "license": "MIT",
     "authors": [
         {
